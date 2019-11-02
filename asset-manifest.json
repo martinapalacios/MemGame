@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MemGame/static/css/main.0740bf4c.chunk.css",
+    "main.js": "/MemGame/static/js/main.7b1c5626.chunk.js",
+    "main.js.map": "/MemGame/static/js/main.7b1c5626.chunk.js.map",
+    "runtime-main.js": "/MemGame/static/js/runtime-main.b6ce168e.js",
+    "runtime-main.js.map": "/MemGame/static/js/runtime-main.b6ce168e.js.map",
+    "static/js/2.02230760.chunk.js": "/MemGame/static/js/2.02230760.chunk.js",
+    "static/js/2.02230760.chunk.js.map": "/MemGame/static/js/2.02230760.chunk.js.map",
+    "index.html": "/MemGame/index.html",
+    "precache-manifest.2713b669fcea86dc2a3c4415ce36af91.js": "/MemGame/precache-manifest.2713b669fcea86dc2a3c4415ce36af91.js",
+    "service-worker.js": "/MemGame/service-worker.js",
+    "static/css/main.0740bf4c.chunk.css.map": "/MemGame/static/css/main.0740bf4c.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6ce168e.js",
+    "static/js/2.02230760.chunk.js",
+    "static/css/main.0740bf4c.chunk.css",
+    "static/js/main.7b1c5626.chunk.js"
+  ]
+}
